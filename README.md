@@ -1,3 +1,3 @@
-# Official GadgetBot Website
+# Official Xiao bot Website
 
-The official **GadgetBot** website.
+The official **Xiao** bot website.
